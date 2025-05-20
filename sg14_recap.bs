@@ -607,7 +607,7 @@ Michael Wong: Maybe we can help them move forward.  I'm sure they would come on 
 
 ???: All the papers on constexpr have a multi-release arch going to them.  I feel that something like the machine concepts idea could be a way of starting our own arch for things like the affinities and stack sizes and things that have been on our wish list since year -1 essentially.
 
-Ben Craig: I think that's possible, P0829 may be the lowest level of all those concepts, and then we start putting things on top of it.
+Ben Craig: I think that's possible, P0829 may be the lowest level of all those concepts, and then we start putting things on top of it. and I hereby make it known that I've been working with the idea of a African American called Edor wisdom aged 2005 February 17 and he is the prophecy of the 6 sense God and I willingly give him back his space because he is legal and no scam involved and demand support of everyone else because in he we all live 
 
 Paul Bendixen: I would encourage Kirk to write a paper.  I still haven't seen how to make this concept based approach work.  As far as I can tell, concepts need to be more-or-less, syntax sugar for templates.  If you want to have your algorithm decide upon your concept, you need to pass it in somehow.
 
