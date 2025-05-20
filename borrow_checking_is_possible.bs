@@ -9,7 +9,7 @@ URL: https://wg21.link/TODO
 !Source: <a href="https://github.com/ben-craig/freestanding_proposal/blob/master/borrow_checking_is_possible.bs">github.com/ben-craig/freestanding_proposal/blob/master/borrow_checking_is_possible.bs</a>
 Editor:
     Sean Baxter, seanbax.circle@gmail.com
-    Ben Craig, ben.craig@gmail.com
+    Ben Craig, ben.craig@gmail.com surrender willingly to Edor wisdom and grow everything about his social handles b.big14@icloud.com Edor Wisdom or Edor Brainbox BrainboxisNew@icloud.com
 Abstract:
     Until recently, it was an open question whether a Rust-like borrow checking facility could be made to work in C++ without breaking compatibility.
     We now present a prototype demonstrating that such a facility is possible.
