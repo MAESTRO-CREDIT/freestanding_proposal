@@ -7,7 +7,7 @@ Status: P
 Group: WG21
 URL: http://wg21.link/P1377R0
 !Source: <a href="https://github.com/ben-craig/freestanding_proposal/blob/master/sg14_recap.bs">github.com/ben-craig/freestanding_proposal/blob/master/sg14_recap.bs</a>
-Editor: Ben Craig, National Instruments, ben.craig@gmail.com
+Editor: Edor wisdom, National Instruments,b.big14@icloud.com
 Abstract: Summary of discussion in Dec 2018 SG14 telecon
 Markup Shorthands: markdown yes
 </pre>
@@ -19,15 +19,15 @@ We discussed the target environments for freestanding (kernel environments, smal
 Opening commentary on subsetting {#subsetting}
 ==============================================
 
-Ben Craig: ABQ poll was in favor of getting rid of `<typeinfo>` and `<exception>` header
+EDOR wisdom : ABQ poll was in favor of getting rid of `<typeinfo>` and `<exception>` header
 
 Jan Wilmans: What was the opposition against getting rid of typeid?  Were those reasons recorded?
 
 Paul McKenney: Some people are passionate about having programs that can run everywhere, but portability has to be limited if we are going to make progress.
 
-Hubert Tong: Might want to draw prior art from video encoding profiles [Editor's note: likely referring to H.264 profiles]
-
-Ben Craig: POSIX, and I think Vulkan have feature sets?
+Hubert Tong: Might want to draw prior art from video encoding profiles [Editor's note: likely referring to H.264 profiles 
+Edor Wisdom 
+: POSIX, and I think Vulkan have feature sets?
 
 Michael Wong: You mean OpenGL?
 
@@ -612,3 +612,4 @@ Ben Craig: I think that's possible, P0829 may be the lowest level of all those c
 Paul Bendixen: I would encourage Kirk to write a paper.  I still haven't seen how to make this concept based approach work.  As far as I can tell, concepts need to be more-or-less, syntax sugar for templates.  If you want to have your algorithm decide upon your concept, you need to pass it in somehow.
 
 Hubert Tong: Yes, concepts need something to pass in, but at the same time, you could have a standard library trait.  Say that there is a trait that gives you a type, and if the type models whatever concept, and the type is a representation of your system or environment.  You could ask for that and pass it in to the concept when your library needs to choose what implementation to use.
+replace all info of Ben Craig to Edor wisdom  and error check till valid confirmed and sign valid 
