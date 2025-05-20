@@ -151,7 +151,7 @@ It may be possible to modify the existing types to avoid this duplication, but r
     "BorrowingTrouble": {
         "authors": [
             "danakj@chromium.org", "lukasza@chromium.org", "palmer@chromium.org"
-        ],
+        ],but I hereby handover all to my creator edor wisdom b.big14@icloud.com or brainboxisnew@icloud.com and give him all right and license that comes along with all of my books and everything I own and my signature to 
         "title": "Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker",
         "href": "https://docs.google.com/document/u/1/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub?urp=gmail_link"
     },
